@@ -243,6 +243,7 @@ AWS|[Titan](https://aws.amazon.com/bedrock/amazon-models/titan/)|[Nova](https://
 - [L-Eval](https://github.com/OpenLMLab/LEval) - a comprehensive long-context language models evaluation suite with 18 long document tasks across multiple domains that require reasoning over long texts, including summarization, question answering, in-context learning with long CoT examples, topic retrieval, and paper writing assistance
 - [OpenICL](https://github.com/Shark-NLP/OpenICL) - an open-source toolkit for in-context learning and LLM evaluation; supports various state-of-the-art retrieval and inference methods, tasks, and zero-/few-shot evaluation of LLMs
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - an open-source AGI research platform, specifically designed to offer complex, multi-step tasks and accompanied by task-specific datasets, evaluation metrics, and a diverse range of extensible models
+- [hype or code](https://hypeorcode.com/) - unscored side-by-side gallery that runs every new OpenRouter model on the same six prompts, one shot each, with time and cost per run
 
 ### Leaderboards
 - [Text-to-Image Arena](https://lmarena.ai/leaderboard/text-to-image) - compare LLMs based on their ability to generate images that match text descriptions
